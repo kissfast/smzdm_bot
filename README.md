@@ -1,4 +1,5 @@
 什么值得买每日签到脚本
+什么值得买每日签到脚本什么值得买每日签到脚本什么值得买每日签到脚本
 ===
 <p align="center">
     <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
