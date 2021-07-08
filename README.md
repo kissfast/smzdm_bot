@@ -2,7 +2,7 @@
 什么值得买每日签到脚本
 
 
-双宿双飞
+双宿
 ===
 <p align="center">
     <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
