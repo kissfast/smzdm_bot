@@ -21,7 +21,7 @@ cron "0 43 1/8 * * ?" script-path=smzdm_mission.js,tag=什么值得买自动签�
 ============小火箭=========
 什么值得买自动签到 = type=cron,script-path=smzdm_mission.js, cronexpr="0 43 1/8 * * ?", timeout=3600, enable=true
 */
-const smzdmCookieKey = "smzdm_cookie";
+const smzdmCookieKey = "SMZDM_COOKIE";
 const scriptName = "什么值得买";
 let clickGoBuyMaxTimes = 12; // 好价点击去购买的次数
 let clickLikeProductMaxTimes = 7; // 好价点值次数
